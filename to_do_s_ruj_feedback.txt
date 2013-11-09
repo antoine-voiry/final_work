@@ -39,5 +39,5 @@ to do's
 4. мавлинк 
 5. да добавя снимки реалният трикоптер в увод
 6. RC info и data flash
-7. parametri na sistemata ... da se doizpipat
+7. parametri na sistemata ... da se doizpipat - da se sloji snimka s realnite stoinosti na parametrite
 8. telemetri
