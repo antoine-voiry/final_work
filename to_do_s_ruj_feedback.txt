@@ -34,9 +34,10 @@
 
 to do's
 
-1. литература
 2. анотация
 3. литературни данни за контрол на трикоптер
 4. мавлинк 
 5. да добавя снимки реалният трикоптер в увод
 6. RC info и data flash
+7. parametri na sistemata ... da se doizpipat
+8. telemetri
